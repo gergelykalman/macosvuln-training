@@ -20,7 +20,7 @@ Check out the full CFP here: [full curriculum](curriculum.md)
 
 ### Upcoming dates and locations
 
-Zer0Con (Seoul, Korea): 2026-03-30 - 2026-04-01 [https://x.com/POC_Crew/status/2010970146337353966](official announcement)
+Zer0Con (Seoul, Korea): 2026-03-30 - 2026-04-01 [official announcement](https://x.com/POC_Crew/status/2010970146337353966)
 
 #### To get notified about future dates please submit [this google form](https://docs.google.com/forms/d/1-K3mwxa8DW7VzYWBW9gAr5bhgT6SXJLymDeC15uwF5s/edit).
 
